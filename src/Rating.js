@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import { FaStar } from "react-icons/fa";
 export default function Rating({ value }) {
